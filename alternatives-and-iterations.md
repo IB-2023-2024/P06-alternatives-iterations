@@ -36,10 +36,10 @@ Ese repositorio privado será el punto de partida y tendrá Ud. que añadir en �
 que realice.
 
 El enlace de invitación a la tarea que se le comunicará tiene una apariencia similar a
-`https://classroom.github.com/a/uNbth9vD`
+`https://classroom.github.com/a/qWHJtY4_`
 Si lo introduce en un navegador, se le solicitará que se autentifique en su cuenta de GitHub,
 y una vez autentificada/o le llevará a una pantalla
-[como esta](https://raw.githubusercontent.com/IB-2022-2023/P06-alternatives-iterations/main/join-the-classroom-22-23.png?token=GHSAT0AAAAAAB2KIDMDGVFSGV5ZPKCEIPJQY2WOHQQ)
+[como esta](https://raw.githubusercontent.com/IB-2023-2024/P06-alternatives-iterations/main/join-the-classroom-23-24.png?token=GHSAT0AAAAAAB2KIDMDGVFSGV5ZPKCEIPJQY2WOHQQ)
 en la que se le solicitará que se una a la "*classroom*" IB-2022-2023.
 Para ello ha de seleccionar su nombre de la lista de identificadores (*Identifiers*) que figura en esa página.
 A continuación se le solicitará que "Acepte la tarea Practica-Nombre"
