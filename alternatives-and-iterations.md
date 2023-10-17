@@ -17,8 +17,6 @@ Se comprobará que el alumnado:
   complejidad similar a los que se han propuesto para esta práctica
 * Ha automatizado la compilación de sus programas usando un fichero `Makefile`
   para cada uno de los programas que desarrolle 
-* Acredita que todas las prácticas realizadas hasta la fecha se encuentran alojadas en repositorios
-  privados de [GitHub](https://github.com/).
 * Acredita que es capaz de subir programas a la plataforma [Jutge](https://jutge.org/) para su evaluación
 * Ha incluido un comentario prólogo en todos los ficheros (`*.cc`, `*.h`) de sus ejercicios
 * Hace que todos los programas de sus prácticas se ajusten a la
@@ -26,50 +24,9 @@ Se comprobará que el alumnado:
 * Acredita que es capaz de editar ficheros remotos en su VM usando vi
 * Demuestra que es capaz de ejecutar comandos Linux en su VM
 
-### GitHub Classroom
-En el futuro se utilizará GitHub Classroom (una plataforma relacionada con GitHub) para gestionar las
-prácticas de *Informática Básica*.
-En esa plataforma, para la realización de cada práctica recibirá una invitación a una tarea que tendrá que
-aceptar.
-Una vez acepte la invitación tendrá que clonar con `git` un repositorio asociado a la tarea.
-Ese repositorio privado será el punto de partida y tendrá Ud. que añadir en él directorios con los programas
-que realice.
-
-El enlace de invitación a la tarea que se le comunicará tiene una apariencia similar a
-`https://classroom.github.com/a/qWHJtY4_`
-Si lo introduce en un navegador, se le solicitará que se autentifique en su cuenta de GitHub,
-y una vez autentificada/o le llevará a una pantalla
-[como esta](https://raw.githubusercontent.com/IB-2023-2024/P06-alternatives-iterations/main/join-the-classroom-23-24.png?token=GHSAT0AAAAAAB2KIDMDGVFSGV5ZPKCEIPJQY2WOHQQ)
-en la que se le solicitará que se una a la "*classroom*" IB-2022-2023.
-Para ello ha de seleccionar su nombre de la lista de identificadores (*Identifiers*) que figura en esa página.
-A continuación se le solicitará que "Acepte la tarea Practica-Nombre"
-Habrá una tarea asociada con cada una de las prácticas de la asignatura.
-
-Cuando lo haya hecho aparecerá una pantalla 
-[como esta](https://raw.githubusercontent.com/IB-2022-2023/P06-alternatives-iterations/main/accepted.png?token=GHSAT0AAAAAAB2KIDMCQ75PHT2TCKF2HUPSY2WOOPQ)
-que indica que ha aceptado Ud. la tarea asignada y
-cuando refresque la pantalla le mostrará 
-[otra pantalla](https://raw.githubusercontent.com/IB-2022-2023/P06-alternatives-iterations/main/ready.png?token=GHSAT0AAAAAAB2KIDMDZNDJL6P5KDO3N4OEY2WOPIA)
-en la que figura el enlace al repositorio que ha sido creado
-para su trabajo en la práctica.
-
-A través de ese enlace accederá Ud. en GitHub al repositorio privado que se ha creado para que desarrolle en
-él los programas correspondientes a la práctica en cuestión.
-[El enlace que figura en ese repositorio](https://raw.githubusercontent.com/IB-2022-2023/P06-alternatives-iterations/main/link.png?token=GHSAT0AAAAAAB2KIDMCQ4Z4HTEU2RJWWXDCY2WOQCA)
-(elija la opción SSH para el enlace) es el que ha de entregar Ud. en la tarea del aula virtual correspondiente a la práctica.
-
-Recuerde que para cada práctica tiene que entregar 2 elementos: 
-* Este enlace a su repositorio. Ese enlace lo puede ya escribir en la tarea correspondiente del aula virtual: 
-no es necesario que espere a la sesión de evaluación para subirlo.
+Recuerde que para cada práctica tiene que entregar: 
 * Un fichero `.tar.gz` conteniendo todos los programas que desarrolle tanto antes como durante la sesión de evaluación.
 Sí ha de esperar a la sesión de evaluación para subir el fichero .tar.gz conteniendo sus programas.
-
-Ese mismo enlace es el que ha de utilizar para realizar una copia local (clone) del repositorio en su máquina
-virtual y comenzar a trabajar en los ejercicios de la práctica:
-
-```
-git clone https://github.com/IB-2022-2023/P06-alternatives-iterations <DirectorioLocal>
-```
 
 ### La utilidad `make`
 Hasta ahora en la asignatura se han compilado los programas que se desarrollan de forma manual, invocando al
@@ -131,7 +88,7 @@ de los cuales, los dos primeros compilan el correspondiente código fuente gener
 
 Estudie cuidadosamente las explicaciones de ese tutorial.
 En el
-[directorio](https://github.com/IB-2022-2023/IB-class-code-examples/tree/master/IntroductionToC%2B%2B/make_tutorial)
+[directorio](https://github.com/IB-2023-2024/IB-class-code-examples/tree/master/IntroductionToC%2B%2B/make_tutorial)
 puede hallar las 5 versiones del fichero `Makefile` que se estudian en ese tutorial.
 Para utilizar (por ejemplo) el fichero Makefile.2 ejecute el comando
 ```
@@ -144,7 +101,7 @@ make
 ```
 
 Para finalizar, en el directorio `make-example` que ha recibido Ud. con esta práctica puede estudiar un fichero
-[Makefile](https://github.com/IB-2022-2023/P06-alternatives-iterations/blob/main/make-example/Makefile)
+[Makefile](https://github.com/IB-2023-2024/P06-alternatives-iterations/blob/main/make-example/Makefile)
 que se utiliza para compilar el programa `dni.cc`
 Ese fichero `Makefile` contiene comentarios indicando la finalidad de cada una de las líneas que figuran en el
 mismo.
