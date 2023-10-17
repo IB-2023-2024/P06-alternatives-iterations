@@ -8,7 +8,6 @@ Los objetivos de esta práctica son que el alumnado:
   hasta ahora, y en particular haciendo uso de sentencias alternativas y de iteración
 * Conozca la herramienta `make` y que sea capaz de configurar ficheros `Makefile` sencillos
   para la automatización de la compilación de sus ejercicios.
-* Comience a gestionar sus asignaciones de trabajos prácticos usando [GitHub Classroom](https://classroom.github.com)
 
 ### Rúbrica de evaluacion de esta práctica
 Se señalan a continuación los aspectos más relevantes (la lista no es exhaustiva) que se tendrán en cuenta a la hora de evaluar esta práctica.
