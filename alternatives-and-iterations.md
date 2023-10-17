@@ -1,4 +1,4 @@
-# Práctica 06. Alternativas e Iteraciones. GitHub Classroom. Make.
+# Práctica 06. Alternativas e Iteraciones. Make.
 
 # Factor de ponderación: 6
 
@@ -50,7 +50,7 @@ y reproduciendo en su máquina virtual y entendiendo cada uno de los ejemplos.
 Estudie solamente hasta el apartado *Static Pattern Rules* del tutorial.
 En 
 [este
-directorio](https://github.com/IB-2022-2023/IB-class-code-examples/tree/master/IntroductionToC%2B%2B/make_tutorial2)
+directorio](https://github.com/IB-2023-2024/IB-class-code-examples/tree/master/IntroductionToC%2B%2B/make_tutorial2)
 del repositorio de programas que acompañan a las transparencias de clase puede encontrar los ejercicios de ese
 tutorial.
 
@@ -64,7 +64,7 @@ En ese tutorial se utiliza el compilador `gcc`, pero puede Ud. sustituirlo por `
 de C++ compila igualmente el código en C (como se ha explicado, C++ es un superconjunto de C).
 En 
 [este
-directorio](https://github.com/IB-2022-2023/IB-class-code-examples/tree/master/IntroductionToC%2B%2B/make_tutorial)
+directorio](https://github.com/IB-2023-2024/IB-class-code-examples/tree/master/IntroductionToC%2B%2B/make_tutorial)
 del repositorio de programas que acompañan a las transparencias de clase puede encontrar los ejercicios de ese
 tutorial, adaptados al compilador `g++`.
 
